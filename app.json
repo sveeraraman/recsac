@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Recsac",
+    "slug": "recsac-alt-box",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/recsac_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.recsac",
+      "buildNumber": "1.0.2",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.recsac",
+      "versionCode": 5,
+      "permissions": [
+        "READ_CONTACTS"
+      ]
+    },
+    "description": "Recsac is a new inbox experience for receiving use-and-throw, short lived email messages to your phone number, without using your personal email ids.  For example, online purchases, store receipts, temporary web logins, software downloads, quick online reads etc - for anything you could think of.  These use-and-throw messages will be auto deleted after a scheduled expiry date.  Try recsac today.  Keep your personal email ids safe and use for what it's supposed to be!"
+  }
+}

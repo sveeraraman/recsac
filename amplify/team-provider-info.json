@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-dynashortv1-dev-224628-authRole",
+            "UnauthRoleArn": "arn:aws:iam::678080844766:role/amplify-dynashortv1-dev-224628-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::678080844766:role/amplify-dynashortv1-dev-224628-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-dynashortv1-dev-224628-deployment",
+            "UnauthRoleName": "amplify-dynashortv1-dev-224628-unauthRole",
+            "StackName": "amplify-dynashortv1-dev-224628",
+            "StackId": "arn:aws:cloudformation:us-east-1:678080844766:stack/amplify-dynashortv1-dev-224628/95c9ccd0-af7b-11ea-9ad3-0e8805686543",
+            "AmplifyAppId": "d2tw1iv6abhnao"
+        }
+    }
+}
